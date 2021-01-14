@@ -23,7 +23,12 @@ $ cd cpp_calculator/src/
 
 Compile source files
 ```
-$ make
+$ make install
+```
+
+You can perform this command to see available make command
+```
+$ make help
 ```
 
 ## Basic Usage
