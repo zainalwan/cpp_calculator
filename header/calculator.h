@@ -2,7 +2,7 @@ class Calculator
 {
 public:
     Calculator();
-    
+
     double sum(double firstNum, double secondNum);
     double minus(double firstNum, double secondNum);
     double multiple(double firstNum, double secondNum);
