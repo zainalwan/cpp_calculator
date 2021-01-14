@@ -7,7 +7,7 @@
 * [License](#license)
 
 ## Description
-This is a command line calculator software for desktop. The software include basic operation: summation, subtraction, multiplication, and division of only two numbers.
+This is a command line calculator software. The software include basic operation: summation, subtraction, multiplication, and division of only two numbers.
 
 This software was made using C++ version 10.2.0 language with OOP style and tested under Arch Linux x64.
 
