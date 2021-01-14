@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Basic Usage](#basic-usage)
+* [License](#license)
 
 ## Description
 This is a command line calculator software for desktop. The software include basic operation: summation, subtraction, multiplication, and division of only two numbers.
@@ -37,3 +38,6 @@ Go to the root folder of this repo and run the software.
 $ cd cpp_calculator/
 $ ./calculator
 ```
+
+## License
+See LICENSE file
