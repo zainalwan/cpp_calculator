@@ -1,4 +1,4 @@
-# CLI Calculator for Desktop
+# CLI Calculator
 
 ## Table of Contents
 * [Description](#description)
