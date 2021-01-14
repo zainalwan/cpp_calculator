@@ -14,7 +14,7 @@ This software was made using C++ version 10.2.0 language with OOP style and test
 ## Installation
 Download this repository or clone this repository to your local machine.
 ```
-git clone https://github.com/zainalwan/cpp_calculator.git
+$ git clone https://github.com/zainalwan/cpp_calculator.git
 ```
 
 Enter to the source files folder
