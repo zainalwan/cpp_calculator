@@ -6,9 +6,9 @@ help:
 	@echo "Usage: make <command>"
 	@echo ""
 	@echo "List of available commands:"
-	@echo "    help		    Displaying this help message"
-	@echo "    install	    Compile all source code files"
-	@echo "    uninstall	    Uninstall this software"
+	@echo "    help               Displaying this help message"
+	@echo "    install            Compile all source code files"
+	@echo "    uninstall          Uninstall this software"
 
 install: calculator main
 	${CC} calculator.o main.o -o ../calculator
