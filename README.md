@@ -22,7 +22,7 @@ Enter to the source files folder
 $ cd cpp_calculator/src/
 ```
 
-Compile source files
+Compile source files. Then, the executable will appear in `../bin/app`.
 ```
 $ make install
 ```
@@ -32,12 +32,14 @@ You can perform this command to see available make command
 $ make help
 ```
 
+Note: work with `g++` of GCC 11.1.0 on Arch Linux x86_64.
+
 ## Basic Usage
-Go to the root folder of this repo and run the software.
+Go to the `bin` folder of this repo and run the software.
 ```
-$ cd cpp_calculator/
-$ ./calculator
+$ cd cpp_calculator/bin
+$ ./app
 ```
 
 ## License
-See LICENSE file
+See `LICENSE` file
